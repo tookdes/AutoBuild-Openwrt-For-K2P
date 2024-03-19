@@ -31,24 +31,24 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 162.159.152.148,443,443,TRUE,美国-圣荷西-30,North America,San Jose,153,20
 162.159.143.166,443,443,TRUE,美国-圣荷西-31,North America,San Jose,176,20
 162.159.152.158,443,443,TRUE,美国-圣荷西-32,North America,San Jose,154,20
-172.67.120.169,443,443,TRUE,美国-华盛顿-1,North America,Ashburn,222,20
-104.22.6.149,443,443,TRUE,美国-华盛顿-2,North America,Ashburn,220,20
-172.67.120.142,443,443,TRUE,美国-华盛顿-3,North America,Ashburn,229,20
-172.67.120.97,443,443,TRUE,美国-华盛顿-4,North America,Ashburn,220,20
-172.67.120.129,443,443,TRUE,美国-华盛顿-5,North America,Ashburn,225,20
-172.67.123.244,443,443,TRUE,美国-华盛顿-6,North America,Ashburn,232,20
-172.67.123.246,443,443,TRUE,美国-华盛顿-7,North America,Ashburn,235,20
-172.67.122.228,443,443,TRUE,美国-华盛顿-8,North America,Ashburn,225,20
-172.67.123.227,443,443,TRUE,美国-华盛顿-9,North America,Ashburn,215,20
-172.67.123.187,443,443,TRUE,美国-华盛顿-10,North America,Ashburn,218,20
-172.67.125.13,443,443,TRUE,美国-华盛顿-11,North America,Ashburn,225,20
-172.67.126.168,443,443,TRUE,美国-华盛顿-12,North America,Ashburn,322,20
-172.67.126.160,443,443,TRUE,美国-华盛顿-13,North America,Ashburn,238,20
-172.67.125.229,443,443,TRUE,美国-华盛顿-14,North America,Ashburn,227,20
-172.67.126.56,443,443,TRUE,美国-华盛顿-15,North America,Ashburn,218,20
-172.67.126.14,443,443,TRUE,美国-华盛顿-16,North America,Ashburn,230,20
-172.67.127.56,443,443,TRUE,美国-华盛顿-17,North America,Ashburn,226,20
-172.67.127.125,443,443,TRUE,美国-华盛顿-18,North America,Ashburn,225,20
+172.67.120.169,443,443,TRUE,美国-阿什伯恩-1,North America,Ashburn,222,20
+104.22.6.149,443,443,TRUE,美国-阿什伯恩-2,North America,Ashburn,220,20
+172.67.120.142,443,443,TRUE,美国-阿什伯恩-3,North America,Ashburn,229,20
+172.67.120.97,443,443,TRUE,美国-阿什伯恩-4,North America,Ashburn,220,20
+172.67.120.129,443,443,TRUE,美国-阿什伯恩-5,North America,Ashburn,225,20
+172.67.123.244,443,443,TRUE,美国-阿什伯恩-6,North America,Ashburn,232,20
+172.67.123.246,443,443,TRUE,美国-阿什伯恩-7,North America,Ashburn,235,20
+172.67.122.228,443,443,TRUE,美国-阿什伯恩-8,North America,Ashburn,225,20
+172.67.123.227,443,443,TRUE,美国-阿什伯恩-9,North America,Ashburn,215,20
+172.67.123.187,443,443,TRUE,美国-阿什伯恩-10,North America,Ashburn,218,20
+172.67.125.13,443,443,TRUE,美国-阿什伯恩-11,North America,Ashburn,225,20
+172.67.126.168,443,443,TRUE,美国-阿什伯恩-12,North America,Ashburn,322,20
+172.67.126.160,443,443,TRUE,美国-阿什伯恩-13,North America,Ashburn,238,20
+172.67.125.229,443,443,TRUE,美国-阿什伯恩-14,North America,Ashburn,227,20
+172.67.126.56,443,443,TRUE,美国-阿什伯恩-15,North America,Ashburn,218,20
+172.67.126.14,443,443,TRUE,美国-阿什伯恩-16,North America,Ashburn,230,20
+172.67.127.56,443,443,TRUE,美国-阿什伯恩-17,North America,Ashburn,226,20
+172.67.127.125,443,443,TRUE,美国-阿什伯恩-18,North America,Ashburn,225,20
 172.67.129.216,443,443,TRUE,英国-伦敦-1,Europe,London,197,20
 172.67.129.129,443,443,TRUE,英国-伦敦-2,Europe,London,240,20
 172.67.129.201,443,443,TRUE,英国-伦敦-3,Europe,London,221,20
